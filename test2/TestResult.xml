@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<test-run id="0" testcasecount="2" result="Passed" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="2" portable-engine-version="3.3.0.0" start-time="2016-12-19 00:25:43Z" end-time="2016-12-19 00:25:44Z" duration="0.182203">
+  <test-suite type="Assembly" id="1003" name="TextAnalysis.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" fullname="TextAnalysis.Tests, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null" runstate="Runnable" testcasecount="2" result="Passed" start-time="2016-12-19 00:25:44Z" end-time="2016-12-19 00:25:44Z" duration="0.067318" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="2">
+    <settings>
+      <setting name="WorkDirectory" value="/Users/douglas/code/tim-group-test/test2" />
+    </settings>
+    <test-suite type="TestSuite" id="1004" name="TextAnalysis" fullname="TextAnalysis" runstate="Runnable" testcasecount="2" result="Passed" start-time="2016-12-19 00:25:44Z" end-time="2016-12-19 00:25:44Z" duration="0.060377" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="2">
+      <test-suite type="TestSuite" id="1005" name="Test" fullname="TextAnalysis.Test" runstate="Runnable" testcasecount="2" result="Passed" start-time="2016-12-19 00:25:44Z" end-time="2016-12-19 00:25:44Z" duration="0.060142" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="2">
+        <test-suite type="TestFixture" id="1000" name="WhitespaceAnalyserTests" fullname="TextAnalysis.Test.WhitespaceAnalyserTests" classname="TextAnalysis.Test.WhitespaceAnalyserTests" runstate="Runnable" testcasecount="2" result="Passed" start-time="2016-12-19 00:25:44Z" end-time="2016-12-19 00:25:44Z" duration="0.057139" total="2" passed="2" failed="0" inconclusive="0" skipped="0" asserts="2">
+          <test-case id="1002" name="Test_string_including_non_whitespace_characters" fullname="TextAnalysis.Test.WhitespaceAnalyserTests.Test_string_including_non_whitespace_characters" methodname="Test_string_including_non_whitespace_characters" classname="TextAnalysis.Test.WhitespaceAnalyserTests" runstate="Runnable" seed="1418872276" result="Passed" start-time="2016-12-19 00:25:44Z" end-time="2016-12-19 00:25:44Z" duration="0.022520" asserts="1" />
+          <test-case id="1001" name="Test_this_string" fullname="TextAnalysis.Test.WhitespaceAnalyserTests.Test_this_string" methodname="Test_this_string" classname="TextAnalysis.Test.WhitespaceAnalyserTests" runstate="Runnable" seed="1192423456" result="Passed" start-time="2016-12-19 00:25:44Z" end-time="2016-12-19 00:25:44Z" duration="0.000365" asserts="1" />
+        </test-suite>
+      </test-suite>
+    </test-suite>
+  </test-suite>
+</test-run>
